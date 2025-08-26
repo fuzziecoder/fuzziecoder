@@ -10,7 +10,8 @@
 
 <!--  PROFILE HEADER INTRO (LHS)  -->
 Hello World! 👋
-![] I’m Ramkumar, a passionate Artificial Intelligence and Data Science student currently in my pre-final year at Er. Perumal Manimekalai College of Engineering, Hosur. I’m deeply interested in Machine Learning, Data Analysis, and AI-driven problem solving.<br><br>🌱 Currently learning Python, Data Analysis, and Frontend Development<br><br>🔭 Working on AI-based web apps like Revon (disease prediction) and Smart Feedback Analyzer<br><br>💻 Building interactive and modern web applications using React.js, Tailwind CSS, Express.js, and MongoDB<br><br>🎯 Goals: To become an AI Engineer and contribute to real-world AI solutions<br><br>
+#
+I’m Ramkumar, a passionate Artificial Intelligence and Data Science student currently in my pre-final year at Er. Perumal Manimekalai College of Engineering, Hosur. I’m deeply interested in Machine Learning, Data Analysis, and AI-driven problem solving.<br><br>🌱 Currently learning Python, Data Analysis, and Frontend Development<br><br>🔭 Working on AI-based web apps like Revon (disease prediction) and Smart Feedback Analyzer<br><br>💻 Building interactive and modern web applications using React.js, Tailwind CSS, Express.js, and MongoDB<br><br>🎯 Goals: To become an AI Engineer and contribute to real-world AI solutions<br><br>
 
 
 ## 🌐 Socials:
