@@ -34,7 +34,9 @@ I’m Ramkumar, a passionate Artificial Intelligence and Data Science student cu
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 </br>
+
 <!--  HI PIKACHU  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 
@@ -50,13 +52,16 @@ I’m Ramkumar, a passionate Artificial Intelligence and Data Science student cu
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
+</br>
 
 <!--  CAT  -->
 <img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 
+</br>
 
 ![](https://github-contributor-stats.vercel.app/api?username=fuzziecoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+</br>
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
