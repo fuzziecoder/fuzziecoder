@@ -1,4 +1,4 @@
-<!--  PROFILE VISIT COUNTER  -->
+ <!--  PROFILE VISIT COUNTER  -->
   <tr>
    <p align="top"> <img src="https://komarev.com/ghpvc/?username=fuzziecoder&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="fuzziecoder" /></p>
   </tr>
