@@ -43,9 +43,9 @@ I’m Ramkumar, a passionate Artificial Intelligence and Data Science student cu
 </br>
 
  ###
-![](https://github-readme-stats.vercel.app/api?username=fuzziecoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fuzziecoder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzziecoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+<!--  MY GITHUB STAT  -->
+<!-- <p>  <img src="https://github-readme-stats.vercel.app/api?username=fuzziecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p> -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fuzziecoder&theme=tokyonight&hide_border=true" /></p>
 
 </br>
 
